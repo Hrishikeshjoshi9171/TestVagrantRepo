@@ -16,4 +16,5 @@ After the project the over, the entire project is pushed to GitHub.
 5]Add TestNG and Maven Libraries using Build Path in Eclipse
 6]Add TestNG Dependencies in pom.xml file
 7]Install Git on Eclipse using Add new Software in Eclipse
-8]Clone the project onto your system and Run as Java Application.
+8]Clone the project onto your system
+9]Finally Run the Program as Java Application.
